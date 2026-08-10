@@ -1,0 +1,16 @@
+# Go binaries
+*.exe
+*.out
+
+# Go test files
+*.test
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
