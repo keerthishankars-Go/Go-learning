@@ -1,5 +1,7 @@
 What is an Array?
-An array is a collection of elements. For example, the collection of integers 5, 8, 9, 79, 76 constitute an array.
+A fixed-length, ordered sequence of elements of the same type, where the length is part of the array's static type itself -- declared like var arr [5]int. Once declared, an array's size can never change..
+
+For example, the collection of integers 5, 8, 9, 79, 76 constitute an array.
 
 Declaration
 An array belongs to the type [n]T.

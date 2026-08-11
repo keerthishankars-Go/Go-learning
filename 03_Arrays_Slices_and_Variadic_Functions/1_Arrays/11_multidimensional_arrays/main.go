@@ -20,6 +20,7 @@ func main() {
 		{"pigeon", "peacock"},
 	}
 	printarray(a)
+	
 	var b [3][2]string
 	b[0][0] = "apple"
 	b[0][1] = "samsung"

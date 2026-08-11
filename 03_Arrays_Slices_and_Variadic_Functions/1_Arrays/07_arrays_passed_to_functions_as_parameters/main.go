@@ -18,4 +18,4 @@ func main () {
 
 }
 
-// In the above program in line no. 13, the array num is actually passed by value to the function changeLocal and hence will not change because of the function call..
+// In the above program in line no. 16, the array num is actually passed by value to the function changeLocal and hence will not change because of the function call..
